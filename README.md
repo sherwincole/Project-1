@@ -10,3 +10,4 @@ The kind of data you’d like to work with and the field you’re interested in 
 * Does the increase in GDP mean more access to electricity?
 * **Does a higher GDP increase the amount of electricity usage?**
 * Tomas: Does Higher electricity consumption lead to more varied electrical production?
+* Steven: GDP versus total power consumption
