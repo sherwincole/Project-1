@@ -9,5 +9,5 @@ The kind of data you’d like to work with and the field you’re interested in 
 * How does GDP impact the % of renewable vs the % of fossil fuels?
 * Does the increase in GDP mean more access to electricity?
 * **Does a higher GDP increase the amount of electricity usage?**
-* Tomas: Does Higher electricity consumption lead to more varied electrical production?
+* Tomas: GDP versus Net Energy Imports
 * Steven: GDP versus total power consumption
