@@ -1,5 +1,5 @@
 ---
-title: "Project 1 Overview"
+Title: "Project 1 Overview"
 ---
 
 ### How does a countries GDP impact consumpstion, diversity, and access to electricity? (Top 10 countires by GDP)
