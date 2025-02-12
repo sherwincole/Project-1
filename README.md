@@ -13,3 +13,5 @@
 
 * Meta data  = https://data.nasdaq.com/databases/WB
 
+*Presentation link = https://docs.google.com/presentation/d/1jT4qBzB1pR3J47iASo0ADUqP20B6U13FAq38mHLhxj8/edit?usp=sharing
+
