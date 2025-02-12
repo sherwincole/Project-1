@@ -1,0 +1,1 @@
+nasdaq_key = "8y-27nEDzPq6sV-GvEXk"
