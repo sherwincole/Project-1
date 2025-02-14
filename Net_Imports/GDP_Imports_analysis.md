@@ -1,0 +1,9 @@
+# This file is for the analysis of GDP versus Net Energy imports using Worldbank data 
+# From the years (1990 -2014)
+
+**Average Net Imports per Country in the Time Frame:** When looking at the average net energy imports accross a 25 year span for the current top 10 countries by GDP we can see that in general most of the countries import a percentage of their total energy. The two exporters being Canada and Russia are two known nations with large oil reserves so this coincides with our common sense. It appears that among the importers smaller nations (Germany, France, Italy, Japan) import on averge over half of their total energy. Japan being the largest importer again corroborates our preconcieved notions owing to it being a small island country with limited natural resources. The most surprising element of this graph is that great britian is nearly net nuetral on importing energy. I think this would warrant some further exploration
+
+
+**A total look at GDP versus Net Imports:** From the scatterplot above it appears that the highest gdp's generally have a net nuetral import percentage. Some potential bias to watch out for from this graph is that the USA was by and far the highest gdp country over this 25 year stretch so they may be skewing some of the data
+
+**Looking for Outliers in the Data by Country:** Here we see that the smaller countries (by land mass) have the narrowest range of import percentages over the 25 year stretch and the larger countries have higher spreads when it comes to their energy imports. There are several potential outliers that may warrant looking into, but given the narrow quartiles it is tough to speak to their statistical relevance without further inquiry. Once again GBR is the surprise here as it has the largest spread in it's quartiles. 
